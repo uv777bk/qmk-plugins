@@ -1,5 +1,5 @@
 export function Name() { return "Monsgeek M5 Keyboard"; }
-export function Version() { return "1.0.0"; }
+export function Version() { return "1.1.9"; }
 export function VendorId() { return 0xFFFE; }
 export function ProductId() { return 0x000A; }
 export function Publisher() { return "uv777bk"; }
@@ -37,7 +37,7 @@ const vKeys =
 ];
 const vKeyNames =
 [
-	"Esc",     "F1", "F2", "F3", "F4",   "F5", "F6", "F7", "F8",    "F9", "F10", "F11", "F12",  "Print Screen", "Scroll Lock", "Pause Break",   "MediaPreviousTrack", "MediaPlayPause", "MediaNextTrack", "MediaStop",
+	"Esc",     "F1", "F2", "F3", "F4",   "F5", "F6", "F7", "F8",    "F9", "F10", "F11", "F12",  "Print Screen", "Scroll Lock", "Pause Break",   "Cal", "VolMute", "VolDown", "VolUp",
 	"`", "1",  "2", "3", "4", "5",  "6", "7", "8", "9", "0",  "-",   "+",  "Backspace",        "Insert",        "Home",     "Page Up",   "NumLock", "Num /", "Num *", "Num -",
 	"Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "[", "]", "\\",                        "Del",         "End",   "Page Down",  "Num 7", "Num 8", "Num 9", "Num +",
 	"CapsLock", "A", "S", "D", "F", "G", "H", "J", "K", "L", ";", "'", "Enter",                                                           "Num 4", "Num 5", "Num 6",
