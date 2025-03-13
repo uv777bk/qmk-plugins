@@ -1,8 +1,8 @@
-export function Name() { return "Monsgeek M1 (V3)"; }
+export function Name() { return "Monsgeek M1 V5 VIA"; }
 export function Version() { return "1.1.9"; }
-export function VendorId() { return 0xfffe; }
-export function ProductId() { return 0x0005; }
-export function Publisher() { return "DaGameBoy"; }
+export function VendorId() { return 0x342D; }
+export function ProductId() { return 0xE4C5; }
+export function Publisher() { return "uv777bk"; }
 export function Documentation() { return "qmk/srgbmods-qmk-firmware"; }
 export function DeviceType() { return "keyboard"; }
 export function Size() { return [16, 6]; }
